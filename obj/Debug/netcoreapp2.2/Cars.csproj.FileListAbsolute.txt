@@ -1,0 +1,11 @@
+/Users/Bthom/Desktop/car-dealership/obj/Debug/netcoreapp2.2/Cars.csprojAssemblyReference.cache
+/Users/Bthom/Desktop/car-dealership/obj/Debug/netcoreapp2.2/Cars.csproj.CoreCompileInputs.cache
+/Users/Bthom/Desktop/car-dealership/obj/Debug/netcoreapp2.2/Cars.AssemblyInfoInputs.cache
+/Users/Bthom/Desktop/car-dealership/obj/Debug/netcoreapp2.2/Cars.AssemblyInfo.cs
+/Users/Bthom/Desktop/car-dealership/bin/Debug/netcoreapp2.2/Cars.deps.json
+/Users/Bthom/Desktop/car-dealership/bin/Debug/netcoreapp2.2/Cars.runtimeconfig.json
+/Users/Bthom/Desktop/car-dealership/bin/Debug/netcoreapp2.2/Cars.runtimeconfig.dev.json
+/Users/Bthom/Desktop/car-dealership/bin/Debug/netcoreapp2.2/Cars.dll
+/Users/Bthom/Desktop/car-dealership/bin/Debug/netcoreapp2.2/Cars.pdb
+/Users/Bthom/Desktop/car-dealership/obj/Debug/netcoreapp2.2/Cars.dll
+/Users/Bthom/Desktop/car-dealership/obj/Debug/netcoreapp2.2/Cars.pdb
